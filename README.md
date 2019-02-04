@@ -2,7 +2,7 @@
 Los antivirus son programas cuyo objetivo es detectar o eliminar virus informáticos. Con el transcurso del tiempo, la aparición de sistemas operativos más avanzados e internet los antivirus han evolucionado hacia programas más avanzados que además de buscar detectar virus informáticos consiguen bloquearlos, desinfectar archivos y prevenir una infección de los mismos. Actualmente son capaces de reconocer otros tipos de malware como spyware, gusanos, troyanos, rootkits, entre otros.
 ![](https://3.bp.blogspot.com/-fIpbHVm9o70/Wfq27EY2gUI/AAAAAAAAIh0/TQ3nML4A2bEy0PxA_xUy46qEmpw2IPXjACLcBGAs/s1600/lpericena%2Bantivirus%2Bstain.png)
 
-- MAS INFORMACI¨®N https://www.lpericena.tk/2017/11/antivirus-stain.html
+- MAS INFORMACIÓN https://www.lpericena.tk/2017/11/antivirus-stain.html
 
 ## Comenzando
 _Estas instrucciones te permitir¨®n obtener una copia del proyecto en funcionamiento en tu m¨®quina local para propÃ³sitos de desarrollo y pruebas._
@@ -35,7 +35,8 @@ https://www.lpericena.tk/2017/11/antivirus-stain.html
 ### Y las pruebas de estilo de codificación
 
 ```
-Puede demorar no mas de 2 minutos el escaneo, es un antivirus que puedes llevarlo en un usb , como dirian un software de bolsillo
+- Puede demorar no mas de 2 minutos el escaneo
+- es un antivirus que puedes llevarlo en un usb , como dirian un software de bolsillo
 ```
 
 ## Deployment 
@@ -65,10 +66,7 @@ Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/Antivirus-Stain) 
 ## Versionado
 
 Usamos [version](https://github.com/Pericena/Antivirus-Stain/blob/master/version.txt) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Pericena/AntivirusStain/tags).
-## Autores ?? 
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
+## Autor
 * **Luishiño Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
 
 Tambi¨¦n puedes mirar la lista de todos los [contribuyentes](https://github.com/Pericena/Antivirus-Stain/contributors) qu¨ªenes han participado en este proyecto. 
