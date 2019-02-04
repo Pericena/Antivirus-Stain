@@ -22,9 +22,10 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 ```
 Ejecutar el programa AntivirusStain.exe existe varias versiones para windows 7/10
 ```
-_Y repite_
+_Comando cmd_
 ```
-hasta finalizar
+attrib -h -s -r -a /s /d /l %USB%:*.* 
+attrib -s -h *.* /s /d
 ```
 
 ## Ejecutando las pruebas
